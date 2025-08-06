@@ -1,2 +1,6 @@
 Test PR
+
+Hi i am in feature branch now
+
 3rd line from main branch but wore in the 2nd line to generate a conflict
+
